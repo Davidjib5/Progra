@@ -1,2 +1,2 @@
 # Progra
-Hola, soy David Iriépar, alumno de Programación Avanzada. En este repostorio iré subiendo mis trabajos a lo largo del curso. Seguramente a este repositorio, invite a un compañero, para trabajar y poder discutir los problemas con más puntos de vista, al igual que en un entorno de trabajo genuino.
+Hola, soy David Iriépar, alumno de Programación Avanzada. En este repostorio iré subiendo mis trabajos a lo largo del curso. Seguramente en este repositorio, invite a algún compañero, para trabajar y poder discutir los problemas con más puntos de vista, al igual que en un entorno de trabajo genuino.
